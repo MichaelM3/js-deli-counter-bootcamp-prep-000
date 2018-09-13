@@ -2,7 +2,7 @@
 ///  line.push(name);
   ///return `Welcome, ${name}. You are number ${line.length} in line.`;///
 ///}
-let i = 0
+let num = 0
 
 function takeANumber(line) {
   i = i + 1;
